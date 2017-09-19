@@ -46,5 +46,5 @@ You are invited to share your result sending at dev[AT]weekendesk.fr.
 IMPORTANT NOTES: 
 - do not forget Java is an OOP language
 - we prefer code quality and tests over performance !
-- we prefer code quality over and tests awesome features ! 
+- we prefer code quality and tests over awesome features ! 
 
